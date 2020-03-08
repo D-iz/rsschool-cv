@@ -7,6 +7,11 @@ Tel:+37533327-58-58
 
 mail:denisnevar@yandex.ru
 
+### EDUCATION:
+Brest state technical university 
+Sep 2001 – Jun 2006 
+
+
 
 A Front-end Developer with more 2 years of experience. Specializes in creating code for customer-
 facing responsive websites using HTML, CSS, JavaScript and related webtechnologies.
