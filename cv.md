@@ -7,6 +7,9 @@ Tel:+37533327-58-58
 
 mail:denisnevar@yandex.ru
 
+skype: DenisNevar 
+
+
 ### EDUCATION:
 Brest state technical university 
 Sep 2001 – Jun 2006 
